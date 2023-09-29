@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+GesChen or Ges both work. 
+
+- 🛠️ Currently working on a robot making game
+- 📝 Learning Unreal
+- 🧠 Use Python, C#, and Blender alot
+
+*🐥 Just quackin along...*
+
 <!--
 **GesChen/GesChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
