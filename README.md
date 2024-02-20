@@ -2,8 +2,8 @@
 
 GesChen or Ges both work. 
 
-- 🛠️ Currently working on a robot making game
-- 📝 Learning Unreal
+- 🛠️ Currently working on Engineering On Quack (Game)
+- 📝 Learning Machine Learning
 - 🧠 Use Python, C#, and Blender alot
 
 *🐥 Just quackin along...*
