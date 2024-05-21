@@ -2,7 +2,7 @@
 
 GesChen or Ges both work. 
 
-- 🛠️ Currently working on Engineering On Quack (Game)
+- 🛠️ Currently working on `Engineering On Quack` (Game)
 - 📝 Learning Machine Learning
 - 🧠 Use Python, C#, and Blender alot
 
