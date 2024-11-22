@@ -6,8 +6,7 @@ GesChen or Ges both work.
 - 📝 Learning Machine Learning
 - 🧠 Use Python, C#, and Blender alot
 
-*🐥 Just quackin along...*
-
+*if i stop committing for a while, i'm either dead, on vacation, or both.*
 <!--
 **GesChen/GesChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
