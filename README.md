@@ -2,12 +2,12 @@
 
 GesChen or Ges both work. 
 
+*if i stop committing for a while, i'm either dead, on vacation, or both.*
+<!--
 - 🛠️ Currently working on `Engineering On Quack` (Game)
 - 📝 Learning Machine Learning
 - 🧠 Use Python, C#, and Blender alot
 
-*if i stop committing for a while, i'm either dead, on vacation, or both.*
-<!--
 **GesChen/GesChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
